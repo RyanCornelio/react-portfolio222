@@ -1,5 +1,4 @@
 import "./about.css";
-import MI from "../../image/MI.jpg";
 import hikick from "../../image/hikick.jpg";
 import ryan2 from "../../image/ryan2.jpg"
 import ryan3 from "../../image/ryan3.jpg"
