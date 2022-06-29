@@ -7,6 +7,8 @@ const intro = () => {
     <div className="i">
         <div className="i-left">
             <div className='i-left-wrapper'>
+            {/* <p id="demo">JavaScript can change HTML content.</p>
+    <button type="button" onClick='document.getElementById("demo").innerHTML = "Hey Ryan"'>Press me</button> */}
                 <h2 className='i-intro'>Hello, My name is</h2>
                 <h1 className='i-name'>Ryan-Phillips Iserhills Cornelio</h1>
                 <div className="i-title">
